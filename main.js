@@ -1,3 +1,6 @@
 console.info("m1")
 console.info("m2")
 console.info("m3")
+console.info("f1")
+console.info("f2")
+console.info("f3")
